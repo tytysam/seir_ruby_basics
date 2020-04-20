@@ -15,4 +15,16 @@ You will use:
 
 properties
 - a classmethod
-- a define a bunch of “special methods”
+- a define a bunch of “special methods aka magic methods”
+
+
+```python
+from math import pi
+
+
+class Circle:
+
+    # constructor
+    def __init__(self, the_radius):
+      pass  
+```
