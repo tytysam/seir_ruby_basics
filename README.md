@@ -8,7 +8,7 @@
 ### 3. Read - EST TIME: 30min
 
 ### 3. Algo Practice - EST TIME: 1hr
-- [Two SUM](https://git.generalassemb.ly/SEIR-224/W07D05-HW/blob/master/ALGO.MD)
+- [Two SUM](https://git.generalassemb.ly/SEIR-224/W10D02-HW/blob/master/ALGO.MD)
 
 
 ### 4.  Interview Practice - EST TIME: 20min
