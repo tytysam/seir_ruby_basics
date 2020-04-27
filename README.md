@@ -1,16 +1,14 @@
 # W10D02-HW
 
 ### 1. Python: 1hr
-- [Python](https://git.generalassemb.ly/SEIR-224/W10D01-HW/blob/master/Python-HW.md)
+- [Python](https://git.generalassemb.ly/SEIR-224/W10D02-HW/blob/master/CircleHW.md)
 
-### 2. Watch - EST TIME: 30min
-- [Toyota Production Documentary](https://www.youtube.com/watch?v=k4-eJsFdxaU)
+### 2. Watch - EST TIME: NA
 
 ### 3. Read - EST TIME: 30min
-- [Multiple inheritance](https://en.wikipedia.org/wiki/Multiple_inheritance)
 
 ### 3. Algo Practice - EST TIME: 1hr
-- [Add two arrays](https://git.generalassemb.ly/SEIR-224/W07D05-HW/blob/master/ALGO.MD)
+- [Two SUM](https://git.generalassemb.ly/SEIR-224/W07D05-HW/blob/master/ALGO.MD)
 
 
 ### 4.  Interview Practice - EST TIME: 20min
