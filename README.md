@@ -1,4 +1,4 @@
-# W10D01-HW
+# W10D02-HW
 
 ### 1. Python: 1hr
 - [Python](https://git.generalassemb.ly/SEIR-224/W10D01-HW/blob/master/Python-HW.md)
