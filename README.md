@@ -1,7 +1,7 @@
 # W10D02-HW
 
 ### 1. Python: 1hr
-- [Python](https://git.generalassemb.ly/SEIR-224/W10D02-HW/blob/master/CircleHW.md)
+- [Python](https://git.generalassemb.ly/SEIR-224/W10D02-HW/blob/master/ANIMAL.md)
 
 ### 2. Watch - EST TIME: NA
 
