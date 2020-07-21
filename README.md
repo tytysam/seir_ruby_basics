@@ -4,7 +4,7 @@
 - [Ruby Basics](https://git.generalassemb.ly/SEIR-526/ruby_basics_hw)
 
 ### 2. Read - EST TIME: 30min
-- [Relational Databases](https://www.smartsheet.com/relational-database)
+- [Relational Databases](https://www.smartsheet.com/relational-database) - Its a long read and it's advised you read the entire tutorial however please focus specifically on the **"Relational Databases vs. Nonrelational Databases"**
 
 ### 3. Algo Practice - EST TIME: 1hr
 - [Two SUM](./ALGO.MD)
