@@ -13,6 +13,7 @@ return [0, 1].
 ```
                                                        
 ```python
-def twoSum(nums, target):
-  pass
+def twoSum(nums, target)
+  
+end
 ```
