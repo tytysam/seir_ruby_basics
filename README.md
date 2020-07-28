@@ -12,5 +12,5 @@
 
 ### 4.  Interview Practice - EST TIME: 20min
 - Add and answer the following question: 
-   - **What is the difference between inheritance vs composition, give an example**.
+   - **What is a Proc in Ruby, how is it used and provide at least one example**.
 - All answers must be at least a paragraph in length however the more you write the more you have to talk about.
