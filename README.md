@@ -9,8 +9,3 @@
 
 ### 3. Algo Practice - EST TIME: 1hr
 - [Two SUM](./ALGO.MD)
-
-### 4.  Interview Practice - EST TIME: 20min
-- Add and answer the following question: 
-   - **What is a Proc in Ruby, how is it used and provide at least one example**.
-- All answers must be at least a paragraph in length however the more you write the more you have to talk about.
