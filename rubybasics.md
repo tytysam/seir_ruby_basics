@@ -26,11 +26,11 @@ For this assignment, you'll complete reps and practice problem solving with Ruby
 
 The Ruby documentation is excellent, take advantage of it! Load the following pages in your browser so that you can search for any useful Ruby methods to help you solve the problems (look through the 'methods' column on the left)
 
-- [Arrays](http://ruby-doc.org/core-2.5.3/Array.html)
-- [Strings](http://ruby-doc.org/core-2.5.3/String.html)
-- [Enumerators](http://ruby-doc.org/core-2.5.3/Enumerator.html) + [Enumberables](https://ruby-doc.org/core-2.5.3/Enumerable.html)
-- [Hashes](http://ruby-doc.org/core-2.5.3/Hash.html)
-- [Literals](https://ruby-doc.org/core-2.5.3/doc/syntax/literals_rdoc.html)
+- [Arrays](http://ruby-doc.org/core-2.7.2/Array.html)
+- [Strings](http://ruby-doc.org/core-2.7.2/String.html)
+- [Enumerators](http://ruby-doc.org/core-2.7.2/Enumerator.html) + [Enumberables](https://ruby-doc.org/core-2.5.3/Enumerable.html)
+- [Hashes](http://ruby-doc.org/core-2.7.2/Hash.html)
+- [Literals](https://ruby-doc.org/core-2.7.2/doc/syntax/literals_rdoc.html)
 
 # Deliverables
 
