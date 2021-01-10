@@ -1,7 +1,7 @@
 # Two sum                                                                       
 
 ## Challenge
-Given an array of integers, return indices of the two numbers such that they add up to a specific target. You may assume that each input would have exactly one solution.
+Given an array of integers, return indices of two numbers in the array such that their values add up to a specific target. You may assume that each input would have exactly one solution.
 
 Example:
 
