@@ -56,7 +56,7 @@ Expected output:
 => Hello Big Bad World
 ```
 
-3. Save the string "Hello World" to a variable. Without changing the letters in your code manually, permanently change "Hello World" to uppercased letters. Print the value of the variable you created.
+3. Save the string "Hello World" to a variable. Without changing the letters in your code manually, use a string method to permanently change "Hello World" to uppercased letters. Print the value of the variable you created.
 
 &#x1F534; **Commit your work**
 <hr>
