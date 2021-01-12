@@ -156,5 +156,34 @@ my_euler_array.each { |num|
 
 #################################################################################
 
+# A Prime number is a number that is not evenly divisible by another number except 
+# 1 and itself. To test whether a number is Prime, you only need to test as far as 
+# the square root of that number. This is advisable for optimization and 
+# testing large numbers.
+
+def check_prime? num
+  return if num <= 1
+  (2..Math.sqrt(num)).none? { |i| (num % i).zero?}
+  # none? ==> Returns true if no element of SELF meets given criteria
+  # zero? ==> Returns true if integer has a zero value
+end
+
+check_prime? 237
+# false
+check_prime? 3
+# true
+check_prime? 37
+# true
+check_prime? 89
+# true
+
+
+require 'prime'
+
+def get_primes num
+  Prime.each(num) { |prime| p prime }
+end
+
+get_primes 100
 
 #################################################################################
