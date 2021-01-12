@@ -98,6 +98,42 @@ multiply_each_by_five numeros
 
 #################################################################################
 
+book = {
+  title: 'The Great Gatsby',
+  author: 'F Scott Fitzgerald',
+  year: 1925,
+  price: 10
+}
+
+lamp = {
+  type: 'reading',
+  brand: 'Ikea',
+  price: 25
+}
+
+table = {
+  type: 'bed side',
+  brand: 'Crate & Barrel',
+  color: 'birch',
+  price: 50
+}
+
+def print_price hsh
+  hsh[:price]
+end
+
+print_price table
+# 50
+
+def print_item_sums hsh1, hsh2
+  price1 = hsh1[:price]
+  price2 = hsh2[:price]
+
+  sum = price1 + price2
+end
+
+print_item_sums table, table
+# 100
 
 #################################################################################
 
