@@ -80,6 +80,21 @@ colors.map { |color| color.upcase }
 
 #################################################################################
 
+def find_area height, width
+  height * width
+end
+
+find_area 4,5
+# 20
+
+numeros = [5, 5, 6, 7, 2, 4, 3, 2, 1, 9, 7, 6, 0, 0]
+
+def multiply_each_by_five array
+  array.map { |i| i * 5}
+end
+
+multiply_each_by_five numeros
+# [25, 25, 30, 35, 10, 20, 15, 10, 5, 45, 35, 30, 0, 0]
 
 #################################################################################
 
