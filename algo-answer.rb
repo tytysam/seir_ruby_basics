@@ -31,7 +31,7 @@ target = 125
 
 def twoSums(nums, target)
   checked = {}
-  nums.each_with_index do |value, i|
+  nums.each_with_index { |value, i|
     difference = target - value
 
     if checked[difference]
@@ -39,10 +39,10 @@ def twoSums(nums, target)
     else 
       checked[value] = i
     end
-  end
-
+  }
 end
 
 p twoSums(nums, target)
+# [2,3]
 
-# Big-O ==> O(n) time complexity
+# Big-O ==> O(n)
